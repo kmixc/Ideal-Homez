@@ -143,7 +143,7 @@ export default function Home() {
                             <div className="group relative">
                                 <div className="relative w-full h-80 bg-white rounded-lg overflow-hidden sm:aspect-w-2 sm:aspect-h-1 sm:h-64 lg:aspect-w-1 lg:aspect-h-1">
                                     <img
-                                        src='http://rm-designs.net/wp-content/uploads/2016/09/spc-01-900x600.jpg'
+                                        src='https://cdn.vox-cdn.com/thumbor/KrNjaW263LdvsGPRg1valjIn_rI=/1400x1050/filters:format(jpeg)/cdn.vox-cdn.com/uploads/chorus_asset/file/21818147/iStock_172413371.jpg'
                                         className="w-full h-full object-center object-cover"
                                     />
                                 </div>
