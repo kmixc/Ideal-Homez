@@ -16,11 +16,10 @@ export default function Home() {
 
                             </span>
                             <p className="ml-3 truncate font-medium text-white">
-                                <span className="md:hidden">We announced a new product!</span>
-                                <span className="hidden md:inline">Big news! We're excited to announce our website launch.</span>
+                                <span className=" md:inline">Big news! We're excited to announce our website launch.</span>
                             </p>
                         </div>
-                        <div className="order-3 mt-2 w-full flex-shrink-0 sm:order-2 sm:mt-0 sm:w-auto">
+                        <div className="order-2 mt-0 w-auto flex-shrink-0">
                             <a
                                 href="/services"
                                 className="flex items-center justify-center rounded-md border border-transparent bg-white px-4 py-2 text-sm font-medium text-lime-600 shadow-sm hover:bg-lime-50"
